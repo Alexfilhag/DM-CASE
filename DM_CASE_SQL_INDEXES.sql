@@ -1,0 +1,1 @@
+--IndexesCREATE INDEX ix_Fperson_id ON TourPerson(person_id) CREATE INDEX ix_Ftour_id ON TourPerson(person_id) CREATE INDEX ix_Ftag_id ON SiteTag(tag_id) 
